@@ -11,7 +11,8 @@ redirect_from:
 
 I am an economics student at [School of Economics and Management](https://ems.whu.edu.cn/English.htm), [Wuhan University](https://en.whu.edu.cn/).
 
-title: "Contact"
+Contact
+------
 
 **Mailing Address:**  
 Building NO.10 in Faculty of Engineeing, Wuhan University, 299 Bayi Road, Wuchang District, Wuhan, Hubei, 430072, China  
