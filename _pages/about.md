@@ -1,5 +1,3 @@
-![Editing a markdown file for a talk](/images/profile.png)
-
 ---
 permalink: /
 title: "About me"
@@ -8,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+![Editing a markdown file for a talk](/images/profile.png)
 
 I am an economics student at [School of Economics and Management](https://ems.whu.edu.cn/English.htm), [Wuhan University](https://en.whu.edu.cn/).
 
