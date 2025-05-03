@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my CV here. (Last updated: Mar. 2024)
+You can find my [CV](../assets/youyangCV.pdf). here. (Last updated: May. 2025)
