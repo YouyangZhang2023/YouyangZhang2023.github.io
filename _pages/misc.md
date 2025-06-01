@@ -4,9 +4,9 @@ title: "Misc."
 permalink: /misc/
 author_profile: true
 redirect_from:
-  - /resume
+  - /misc
 ---
 
 {% include base_path %}
 
-You can find my [CV](../assets/youyangCV.pdf). here. (Last updated: May. 2025)
+[Academic Caldendar of WHU](https://uc.whu.edu.cn/xl.htm)
