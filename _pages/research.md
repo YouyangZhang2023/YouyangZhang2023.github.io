@@ -40,13 +40,7 @@ Economic History, Political Economy, Development/Institutional/Labor Economics
 [*Journal of Development Economics*](https://www.sciencedirect.com/journal/journal-of-development-economics)
 
   
-
-
 [*China Economic Review*](https://www.sciencedirect.com/journal/china-economic-review/special-issues)
-
-[**]()
-
-  
 
 [*Journal of Economic History*](https://www.cambridge.org/core/journals/journal-of-economic-history)
 
@@ -55,3 +49,9 @@ Economic History, Political Economy, Development/Institutional/Labor Economics
 [*Explorations in Economic History*](https://www.sciencedirect.com/journal/explorations-in-economic-history)
 
 [*Asia‐Pacific Economic History Review (AEHR)*](https://onlinelibrary.wiley.com/journal/2832157x)
+
+[经济研究](https://erj.ajcass.com/#/index?title=%E6%9C%AC%E7%AB%99%E9%A6%96%E9%A1%B5)、[管理世界]()
+
+[世界经济]、[中国工业经济](https://ciejournal.ajcass.com/)、[金融研究](http://www.jryj.org.cn/CN/1002-7246/home.shtml)
+
+[经济学（季刊）](https://ccj.pku.edu.cn/journal/info?jid=96822&clickTab=true)、[中国经济史研究](https://zgjjsyj.ajcass.com/Journal/769)、[中国农村经济](https://zgncjj.ajcass.com/?jumpnotice=201606270007)
