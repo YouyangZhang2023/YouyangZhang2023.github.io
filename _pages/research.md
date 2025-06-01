@@ -22,3 +22,14 @@ Working Papers
 
 Work in Progress
 -----
+
+USeful Links
+-----
+
+[武汉大学图书馆](https://www.lib.whu.edu.cn/)
+
+Journals
+
+[The Economic History Review](https://onlinelibrary.wiley.com/journal/14680289)
+
+
