@@ -36,11 +36,15 @@ Economic History, Political Economy, Development/Institutional/Labor Economics
 
 [*Review of Economic Studies*](https://academic.oup.com/restud?login=true)
 
+
+[*Journal of Development Economics*](https://www.sciencedirect.com/journal/journal-of-development-economics)
+
+
 [*China Economic Review*](https://www.sciencedirect.com/journal/china-economic-review/special-issues)
 
 [**]()
 
-[*Journal of Development Economics*](https://www.sciencedirect.com/journal/journal-of-development-economics)
+
 
 [*Journal of Economic History*](https://www.cambridge.org/core/journals/journal-of-economic-history)
 
