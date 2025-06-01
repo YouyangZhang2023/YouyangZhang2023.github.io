@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my [CV](../assets/youyangCV.pdf). here. (Last updated: May. 2025)
+You can find my [CV](../assets/youyangCV.pdf) here. (Last updated: May. 2025)
