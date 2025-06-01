@@ -50,10 +50,10 @@ Economic History, Political Economy, Development/Institutional/Labor Economics
 
 [*Asia‐Pacific Economic History Review (AEHR)*](https://onlinelibrary.wiley.com/journal/2832157x)
 
-[经济研究](https://erj.ajcass.com/#/index?title=%E6%9C%AC%E7%AB%99%E9%A6%96%E9%A1%B5)、[管理世界]()
+[中国社会科学](https://ncpssd.org/journal/details?gch=81908X&nav=1&langType=1)、[经济研究](https://erj.ajcass.com/#/index?title=%E6%9C%AC%E7%AB%99%E9%A6%96%E9%A1%B5)、[管理世界]()
 
-[世界经济]()、[中国工业经济](https://ciejournal.ajcass.com/)、[金融研究](http://www.jryj.org.cn/CN/1002-7246/home.shtml)
+[世界经济](https://ncpssd.org/journal/details?gch=92713X&nav=1&langType=1)、[中国工业经济](https://ciejournal.ajcass.com/)、[金融研究](http://www.jryj.org.cn/CN/1002-7246/home.shtml)
 
-[经济学（季刊）](https://ccj.pku.edu.cn/journal/info?jid=96822&clickTab=true)、[中国经济史研究](https://zgjjsyj.ajcass.com/Journal/769)、[中国农村经济](https://zgncjj.ajcass.com/?jumpnotice=201606270007)
+[经济学（季刊）](https://ccj.pku.edu.cn/journal/info?jid=96822&clickTab=true)、[数量经济技术经济研究](https://www.jqte.net/sljjjsjjyj/ch/index.aspx)、[经济学动态](https://jjxdt.ajcass.com/?jumpnotice=201903080001#/)、[中国经济史研究](https://zgjjsyj.ajcass.com/Journal/769)、[中国农村经济](https://zgncjj.ajcass.com/?jumpnotice=201606270007)、[经济科学](https://ccj.pku.edu.cn/journal/info?jid=96796)
 
-[历史研究](https://ncpssd.org/journal/details.aspx?gch=81900X&langType=1)、[中国史研究](https://ncpssd.org/journal/details?gch=82047X&nav=1&langType=1)、[近代史研究](https://ncpssd.org/journal/details?gch=81391X&nav=1&langType=1)、[世界历史](https://ncpssd.org/journal/details?gch=81120X&nav=1&langType=1)
+[历史研究](https://ncpssd.org/journal/details.aspx?gch=81900X&langType=1)、[中国史研究](https://ncpssd.org/journal/details?gch=82047X&nav=1&langType=1)、[近代史研究](https://ncpssd.org/journal/details?gch=81391X&nav=1&langType=1)、[世界历史](https://ncpssd.org/journal/details?gch=81120X&nav=1&langType=1)、[史学月刊](https://ncpssd.org/journal/details?gch=83014X&nav=1&langType=1)、[史林](https://ncpssd.org/journal/details?gch=81825X&nav=1&langType=1)
