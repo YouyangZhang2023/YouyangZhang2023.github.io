@@ -15,6 +15,7 @@ Education
 ------
 
 Master in Economics, Wuhan University, (2025-2028)
+
 Bachelor in Economics, Wuhan University, 2021-2025
 
 Contact
