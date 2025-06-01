@@ -9,24 +9,28 @@ redirect_from:
 
 {% include base_path %}
 
-# Research Interest
+## Research Interest
 
 Economic History, Political Economy, Development/Institutional/Labor Economics
 
-# Publications
+## Publications
 
-# Working Papers
+## Working Papers
 
 
-# Work in Progress
+## Work in Progress
 
-# Useful Links
+## Useful Links
 
 [武汉大学图书馆](https://www.lib.whu.edu.cn/)
 
-## Journals
+### Journals
 
 [American Economic Review (AER)](https://www.aeaweb.org/journals/aer)
+
+[The Quarterly Journal of Economics](https://academic.oup.com/qje)
+
+[The Journal of Economic History](https://www.cambridge.org/core/journals/journal-of-economic-history)
 
 [Economic History Review](https://onlinelibrary.wiley.com/journal/14680289)
 
