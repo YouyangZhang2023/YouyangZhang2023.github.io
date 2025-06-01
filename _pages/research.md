@@ -39,12 +39,14 @@ Economic History, Political Economy, Development/Institutional/Labor Economics
 
 [*Journal of Development Economics*](https://www.sciencedirect.com/journal/journal-of-development-economics)
 
+  
+
 
 [*China Economic Review*](https://www.sciencedirect.com/journal/china-economic-review/special-issues)
 
 [**]()
 
-
+  
 
 [*Journal of Economic History*](https://www.cambridge.org/core/journals/journal-of-economic-history)
 
