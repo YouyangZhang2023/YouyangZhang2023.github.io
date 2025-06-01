@@ -13,4 +13,4 @@ redirect_from:
 
 ## Notes
 
-[实用英语语法手册](../assets/english grammar.pdf).
+[实用英语语法手册](../assets/english grammar.pdf) (updating).
