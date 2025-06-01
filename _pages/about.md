@@ -11,6 +11,12 @@ redirect_from:
 
 I am an economics student at [School of Economics and Management](https://ems.whu.edu.cn/English.htm), [Wuhan University](https://en.whu.edu.cn/).
 
+Education
+------
+
+Master in Economics, Wuhan University, (2025-2028)
+Bachelor in Economics, Wuhan University, 2021-2025
+
 Contact
 ------
 
