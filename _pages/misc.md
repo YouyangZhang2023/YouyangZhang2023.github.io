@@ -43,3 +43,12 @@ redirect_from:
 [历史研究](https://ncpssd.org/journal/details.aspx?gch=81900X&langType=1)、[中国史研究](https://ncpssd.org/journal/details?gch=82047X&nav=1&langType=1)、[近代史研究](https://ncpssd.org/journal/details?gch=81391X&nav=1&langType=1)、[世界历史](https://ncpssd.org/journal/details?gch=81120X&nav=1&langType=1)、[史学月刊](https://ncpssd.org/journal/details?gch=83014X&nav=1&langType=1)、[史林](https://ncpssd.org/journal/details?gch=81825X&nav=1&langType=1)、[清史研究](http://qsyj.ruc.edu.cn/CN/1002-8587/home.shtml)、[中国社会经济史研究](https://zsjy.cbpt.cnki.net/wki/WebPublication/index.aspx?mid=zsjy)
 
 ## Templates
+
+[《经济研究》杂志 LaTeX 论文模板](https://github.com/EthanDeng/Chinese-ERJ)
+
+[参考文献索引及用录体例说明](https://erj.ajcass.com/#/detail?id=&channelId=12816&title=%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E7%B4%A2%E5%BC%95%E5%8F%8A%E7%94%A8%E5%BD%95%E4%BD%93%E4%BE%8B%E8%AF%B4%E6%98%8E&title1=%E6%8A%95%E7%A8%BF%E9%A1%BB%E7%9F%A5)
+
+[《经济研究》稿件体例要求](https://erj.ajcass.com/#/detail?id=&channelId=12815&title=%E3%80%8A%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6%E3%80%8B%E7%A8%BF%E4%BB%B6%E4%BD%93%E4%BE%8B%E8%A6%81%E6%B1%82&title1=%E6%8A%95%E7%A8%BF%E9%A1%BB%E7%9F%A5)
+
+[《历史研究》关于页面版式和引文注释的规定](../assets/Historical Research.pdf)
+
