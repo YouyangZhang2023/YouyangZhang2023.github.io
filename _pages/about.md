@@ -22,11 +22,11 @@ Contact
 ------
 
 **Mailing Address:**  
-Building NO.10 in Faculty of Engineeing, Wuhan University, 299 Bayi Road, Wuchang District, Wuhan, Hubei, 430072, China  
+Luojiashan Apartment, Wuhan University, 483 Bayi Road, Wuchang District, Wuhan, Hubei, 430072, China  
 
 **Mailing Address in Chinese:**  
-中国，湖北，武汉，武昌区，八一路 299 号  
-武汉大学，工学部十舍，430072  
+中国，湖北，武汉，武昌区，八一路483特1号  
+武汉大学，珞珈山学生公寓，430072  
 
 **Email:** zhangyouyang2003@outlook.com (preferred)  
 
