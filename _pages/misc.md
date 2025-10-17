@@ -23,6 +23,8 @@ redirect_from:
 
 [武汉大学图书馆](https://www.lib.whu.edu.cn/)
 
+[《经济学》（季刊）关于计量分析中的相关表述说明](https://nsd.pku.edu.cn/xzyj/cbw/jjxjk/xwsd/541717.htm)
+
 ### Journals
 
 [*American Economic Review (AER)*](https://www.aeaweb.org/journals/aer), [*Econometrica*](https://onlinelibrary.wiley.com/journal/14680262), [*Journal of Political Economy (JPE)*](https://www.journals.uchicago.edu/toc/jpe/current), [*Quarterly Journal of Economics (QJE)*](https://academic.oup.com/qje), [*Review of Economic Studies (RES)*](https://academic.oup.com/restud?login=true)
@@ -53,4 +55,5 @@ redirect_from:
 [《经济研究》稿件体例要求](https://erj.ajcass.com/#/detail?id=&channelId=12815&title=%E3%80%8A%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6%E3%80%8B%E7%A8%BF%E4%BB%B6%E4%BD%93%E4%BE%8B%E8%A6%81%E6%B1%82&title1=%E6%8A%95%E7%A8%BF%E9%A1%BB%E7%9F%A5)
 
 [《历史研究》关于页面版式和引文注释的规定](../assets/Historical Research.pdf)
+
 
