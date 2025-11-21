@@ -11,7 +11,7 @@ redirect_from:
 
 ## Research Interest
 
-Economic History, Political Economy, Development/Institutional/Labor Economics
+Economic History, Political Economy, Development/Institutional Economics
 
 ## Publications
 
