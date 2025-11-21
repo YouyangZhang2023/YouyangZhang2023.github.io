@@ -56,4 +56,4 @@ redirect_from:
 
 [《历史研究》关于页面版式和引文注释的规定](../assets/Historical Research.pdf)
 
-
+[《中国经济史研究》文稿体例及注释格式规定(修订版)](../assets/Researches in Chinese Economic History.pdf)
