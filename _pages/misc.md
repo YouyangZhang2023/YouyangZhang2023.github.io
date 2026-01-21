@@ -29,6 +29,8 @@ redirect_from:
 
 [*American Economic Review (AER)*](https://www.aeaweb.org/journals/aer), [*Econometrica*](https://onlinelibrary.wiley.com/journal/14680262), [*Journal of Political Economy (JPE)*](https://www.journals.uchicago.edu/toc/jpe/current), [*Quarterly Journal of Economics (QJE)*](https://academic.oup.com/qje), [*Review of Economic Studies (RES)*](https://academic.oup.com/restud?login=true)
 
+[*Journal of Economic Literature (JEL)*](https://www.aeaweb.org/journals/jel), [*Journal of Economic Perspectives (JEP)*](https://www.aeaweb.org/journals/jep)
+
 [*Journal of Development Economics (JDE)*](https://www.sciencedirect.com/journal/journal-of-development-economics)
 
   
