@@ -31,5 +31,3 @@ Luojiashan Apartment, Wuhan University, 483 Bayi Road, Wuchang District, Wuhan, 
 **Email:** zhangyouyang2003@outlook.com (preferred)  
 
 **Mobile:** (+86) 135-518-79685 ·  
-
-**Weibo:** @Local_nonsatiation  
