@@ -11,4 +11,4 @@ redirect_from:
 
 I received my B.A (Economics) from Wuhan University in 2025.
 
-You can find my [CV](../assets/youyangCV.pdf) here. (Last updated: May. 2025)
+You can find my [CV](../assets/cv20260402.pdf) here. (Last updated: April. 2025)
