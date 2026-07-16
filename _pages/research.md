@@ -22,4 +22,6 @@ Economic History, Political Economy, Development/Institutional Economics
 
 ## Work in Progress
 
+《白银流入、土地市场与长期经济变迁：基于土地文书大规模挖掘的量化研究》，该项目获得2026年清华大学“计算社会科学研究奖励计划”资助。
+
 
