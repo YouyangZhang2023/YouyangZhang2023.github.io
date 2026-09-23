@@ -17,6 +17,8 @@ redirect_from:
 
 [实用英语语法手册](../assets/english grammar.pdf) (updating).
 
+[第一篇论文的诞生](../assets/thebirthofapaper.pdf)（20263年弘毅数智社分享）
+
 ## Useful Links
 
 [Academic Caldendar of WHU](https://uc.whu.edu.cn/xl.htm)
