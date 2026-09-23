@@ -17,7 +17,7 @@ redirect_from:
 
 [实用英语语法手册](../assets/english grammar.pdf) (updating).
 
-[第一篇论文的诞生](../assets/thebirthofapaper.pdf)（20263年弘毅数智社分享）
+[第一篇论文的诞生](../assets/thebirthofapaper.pdf)（2026年弘毅数智社分享）
 
 ## Useful Links
 
